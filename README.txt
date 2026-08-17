@@ -42,3 +42,33 @@ V4.1 ÄNDERUNGEN
 - Gruppenunterricht CHF 30.– / Std. pro Person
 - Workshops/Intensives: Preis je Angebot
 - Hinweis: Durchführung ab 8, maximal 16 Teilnehmende; bei hoher Nachfrage zusätzlicher Kurs möglich
+
+
+V4.2 KORREKTUR
+--------------
+- Bildpfade an den tatsächlichen GitHub-Aufbau angepasst:
+  Bilder liegen direkt im Hauptordner des Repositorys.
+- Kein assets/images Ordner mehr nötig.
+- Hero-Bild mit Vorhang wird direkt über hero-stage.webp geladen.
+- Hero-Überschrift deutlich verkleinert und näher ans ursprüngliche Mockup gesetzt.
+
+
+V4.6
+----
+Nur die About-Bilder wurden aktualisiert:
+- about-candid.png
+- about-home-sunglasses.png
+- about-portrait.png
+
+Alle übrigen Inhalte, Layouts, Kurse, Preise und Funktionen bleiben wie in der vorherigen Version.
+
+
+V4.7 SEO
+--------
+Keine sichtbaren Design- oder Inhaltsänderungen.
+Ergänzt wurden ausschließlich SEO-Informationen für Suchmaschinen:
+- individuelle Seitentitel
+- Meta-Descriptions
+- Robots-Meta
+- sitemap.xml
+- robots.txt
