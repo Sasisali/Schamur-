@@ -1,0 +1,1 @@
+SCHAMUR V4.4 — nur Hero-Bild angepasst. Alle Dateien direkt in den GitHub-Root hochladen und gleichnamige ersetzen.

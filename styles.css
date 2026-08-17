@@ -347,3 +347,18 @@ p{margin:1rem 0}
   .glance-card img{height:290px}
   .glance-about{flex-direction:column;align-items:flex-start}
 }
+
+/* V4.4 HERO ONLY FIX */
+.home-hero-v43{min-height:640px;background:#0B0907;overflow:hidden;position:relative}
+.home-hero-v43 .hero-person{position:absolute;right:0;top:0;width:64%;height:100%;object-fit:cover;object-position:58% 48%;z-index:0}
+.home-hero-v43 .hero-dark{position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(9,7,5,.98) 0%,rgba(9,7,5,.94) 28%,rgba(9,7,5,.72) 43%,rgba(9,7,5,.20) 62%,rgba(74,13,16,.08) 100%)}
+.home-hero-v43 .hero-content{position:relative;z-index:2;max-width:470px;padding-top:96px}
+.home-hero-v43 h1{font-size:clamp(3.9rem,5.2vw,5.45rem);line-height:.96}
+@media(max-width:900px){.home-hero-v43 .hero-person{width:72%;object-position:60% 48%}}
+@media(max-width:700px){
+  .home-hero-v43{min-height:720px;align-items:end}
+  .home-hero-v43 .hero-person{width:100%;height:58%;top:0;right:0;object-position:57% 42%}
+  .home-hero-v43 .hero-dark{background:linear-gradient(180deg,rgba(9,7,5,.08) 0%,rgba(9,7,5,.18) 34%,rgba(9,7,5,.82) 58%,#090705 70%,#090705 100%)}
+  .home-hero-v43 .hero-content{padding:0 0 58px;max-width:100%}
+  .home-hero-v43 h1{font-size:3.55rem}
+}
