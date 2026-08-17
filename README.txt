@@ -95,3 +95,12 @@ V5.1 SEO – sichtbare Korrektur
 - story-director wurde von PNG in WebP konvertiert.
 - Keine weiteren sichtbaren Layout-/CSS-Änderungen.
 - SEO aus V5 bleibt erhalten.
+
+
+V5.1 SEO FINAL
+--------------
+- Hero verwendet exakt das neu hochgeladene hero-curtain.webp.
+- About-Me-Karte auf der Startseite zeigt wieder about-home-sunglasses.webp.
+- "Über SCHAMUR"-Galerie wurde an die Bildformate angepasst:
+  keine harten Zuschnitte, Bilder vollständig sichtbar, responsives Grid.
+- SEO und übriger Seiteninhalt bleiben erhalten.
