@@ -26,3 +26,19 @@ SPÄTER
 - Showreel durch YouTube- oder Vimeo-Embed ersetzen.
 - Weitere Cal.com Event Types können ergänzt werden.
 - Hidden Love kann eine eigene Projektseite bekommen.
+
+
+V4.1 ÄNDERUNGEN
+---------------
+- Stage Kids: 6–12 Jahre, 60 Min., 8–16 Personen
+  Halbjahr CHF 480.– / Jahr CHF 850.–
+- Stage Teens: 12–18 Jahre, 60 Min., 8–16 Personen
+  Halbjahr CHF 600.– / Jahr CHF 1'000.–
+- Stage Adults: 20+ Jahre, 60 Min., 8–16 Personen
+  Halbjahr CHF 720.– / Jahr CHF 1'200.–
+- Preise direkt in den drei Kurskarten
+- zusätzliche kompakte Preisübersicht
+- Einzelcoaching CHF 50.– / Std.
+- Gruppenunterricht CHF 30.– / Std. pro Person
+- Workshops/Intensives: Preis je Angebot
+- Hinweis: Durchführung ab 8, maximal 16 Teilnehmende; bei hoher Nachfrage zusätzlicher Kurs möglich
