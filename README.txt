@@ -72,3 +72,14 @@ Ergänzt wurden ausschließlich SEO-Informationen für Suchmaschinen:
 - Robots-Meta
 - sitemap.xml
 - robots.txt
+
+
+V5 SEO
+------
+- Hero wieder mit hero-stage.webp (Vorhang/Bühne) wie im gewünschten früheren Stand.
+- Die vier Bereiche direkt unter dem Hero nutzen keine persönlichen Fotos:
+  Stage = Bühne, Voice = Mikrofon, Story = Kamera, About Me = Gänseblümchen.
+- Die warmen persönlichen Bilder werden im eigentlichen About-Bereich verwendet.
+- Warme Varianten wurden behalten und kalte Dubletten ersetzt.
+- Alle Rasterbilder im Paket liegen ausschließlich als .webp vor.
+- Unsichtbares SEO: Titles, Meta Descriptions, canonical URLs, JSON-LD, sitemap.xml, robots.txt.

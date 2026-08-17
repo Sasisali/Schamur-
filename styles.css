@@ -248,3 +248,48 @@ p{margin:1rem 0}
   }
   .home-hero h1{font-size:3.7rem}
 }
+
+
+/* V5 — final homepage hero restoration */
+.home-hero{
+  min-height:650px;
+  background:var(--black);
+}
+.home-hero::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    linear-gradient(90deg,
+      rgba(8,6,5,.97) 0%,
+      rgba(8,6,5,.90) 29%,
+      rgba(8,6,5,.62) 44%,
+      rgba(8,6,5,.20) 61%,
+      rgba(8,6,5,.04) 100%),
+    url("hero-stage.webp") 68% center/cover no-repeat;
+}
+.home-hero::after{
+  width:10%;
+  background:linear-gradient(90deg,transparent,rgba(74,13,16,.72));
+}
+.hero-content{
+  padding-top:105px;
+  max-width:465px;
+}
+.home-hero h1{
+  font-size:clamp(3.8rem,5.3vw,5.5rem);
+  line-height:.95;
+}
+.home-hero p{
+  max-width:420px;
+  font-size:.96rem;
+}
+@media(max-width:700px){
+  .home-hero{min-height:700px}
+  .home-hero::before{
+    background:
+      linear-gradient(rgba(8,6,5,.42),rgba(8,6,5,.84)),
+      url("hero-stage.webp") 58% center/cover no-repeat;
+  }
+  .home-hero h1{font-size:3.65rem}
+}
