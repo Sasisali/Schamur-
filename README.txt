@@ -83,3 +83,15 @@ V5 SEO
 - Warme Varianten wurden behalten und kalte Dubletten ersetzt.
 - Alle Rasterbilder im Paket liegen ausschließlich als .webp vor.
 - Unsichtbares SEO: Titles, Meta Descriptions, canonical URLs, JSON-LD, sitemap.xml, robots.txt.
+
+
+V5.1 SEO – sichtbare Korrektur
+------------------------------
+- Hero verwendet exakt hero-curtain.webp.
+- Abschnitt "Über SCHAMUR" zeigt keine persönlichen Fotos:
+  1. stage-scene-work.webp
+  2. voice-performer.webp
+  3. story-director.webp
+- story-director wurde von PNG in WebP konvertiert.
+- Keine weiteren sichtbaren Layout-/CSS-Änderungen.
+- SEO aus V5 bleibt erhalten.

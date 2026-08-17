@@ -47,7 +47,7 @@ p{margin:1rem 0}
 .home-hero{position:relative;min-height:690px;color:white;display:flex;align-items:center;background:var(--black);overflow:hidden}
 .home-hero::before{content:"";position:absolute;inset:0;background:
  linear-gradient(90deg,rgba(8,6,5,.98) 0%,rgba(8,6,5,.88) 36%,rgba(8,6,5,.30) 60%,rgba(8,6,5,.05) 100%),
- url("hero-stage.webp") center 43%/cover no-repeat}
+ url("hero-curtain.webp") center 43%/cover no-repeat}
 .home-hero::after{content:"";position:absolute;right:0;top:0;bottom:0;width:15%;background:linear-gradient(90deg,transparent,rgba(74,13,16,.9))}
 .hero-content{position:relative;z-index:2;padding-top:110px;max-width:500px}
 .home-hero h1{color:white}
@@ -177,7 +177,7 @@ p{margin:1rem 0}
 @media(max-width:700px){
   .site-header{padding:15px 5vw;background:rgba(8,6,5,.96)}
   .wordmark{min-width:auto}.wordmark-main{font-size:1.6rem}.wordmark-sub{font-size:.48rem}
-  .home-hero{min-height:720px}.home-hero::before{background:linear-gradient(rgba(8,6,5,.55),rgba(8,6,5,.82)),url("hero-stage.webp") 56% center/cover no-repeat}
+  .home-hero{min-height:720px}.home-hero::before{background:linear-gradient(rgba(8,6,5,.55),rgba(8,6,5,.82)),url("hero-curtain.webp") 56% center/cover no-repeat}
   .hero-content{padding-top:100px;max-width:100%}
   h1{font-size:4.2rem}
   .world-grid,.offer-grid,.about-gallery,.contact-box,.music-feature,.project-card{grid-template-columns:1fr}
@@ -223,7 +223,7 @@ p{margin:1rem 0}
 .home-hero::before{
   background:
     linear-gradient(90deg,rgba(8,6,5,.97) 0%,rgba(8,6,5,.88) 30%,rgba(8,6,5,.42) 48%,rgba(8,6,5,.08) 67%,rgba(8,6,5,.02) 100%),
-    url("hero-stage.webp") 66% 42%/cover no-repeat;
+    url("hero-curtain.webp") 66% 42%/cover no-repeat;
 }
 .home-hero::after{
   width:11%;
@@ -244,7 +244,7 @@ p{margin:1rem 0}
   .home-hero::before{
     background:
       linear-gradient(rgba(8,6,5,.38),rgba(8,6,5,.82)),
-      url("hero-stage.webp") 61% center/cover no-repeat;
+      url("hero-curtain.webp") 61% center/cover no-repeat;
   }
   .home-hero h1{font-size:3.7rem}
 }
@@ -266,7 +266,7 @@ p{margin:1rem 0}
       rgba(8,6,5,.62) 44%,
       rgba(8,6,5,.20) 61%,
       rgba(8,6,5,.04) 100%),
-    url("hero-stage.webp") 68% center/cover no-repeat;
+    url("hero-curtain.webp") 68% center/cover no-repeat;
 }
 .home-hero::after{
   width:10%;
@@ -289,7 +289,7 @@ p{margin:1rem 0}
   .home-hero::before{
     background:
       linear-gradient(rgba(8,6,5,.42),rgba(8,6,5,.84)),
-      url("hero-stage.webp") 58% center/cover no-repeat;
+      url("hero-curtain.webp") 58% center/cover no-repeat;
   }
   .home-hero h1{font-size:3.65rem}
 }
