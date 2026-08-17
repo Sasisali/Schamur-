@@ -1,9 +1,14 @@
-SCHAMUR V4.5
+SCHAMUR V4.5 – korrigierte Bildaufteilung
 
-Geändert:
-- NUR das Hero-Bild auf der Startseite: hero-cafe-v45.webp
-- Das bestehende About-Me-Bild wurde NICHT verändert.
-- Alle anderen Seiten und Inhalte bleiben wie V4.4.
+STARTSEITE
+- Hero oben: Vorhangbild aus V4.4 bleibt.
+- Stage: bestehendes Bühnenbild.
+- Voice: bestehendes Mikrofonbild.
+- Story: bestehendes Filmbild.
+- About Me Karte: neues Foto mit Sonnenbrille und Telefon.
 
-GitHub:
-Alle Dateien direkt in den Repository-Root hochladen, gleichnamige ersetzen, Commit changes, danach neu laden.
+ABOUT-ME-SEITE
+- unverändert.
+- Dort bleibt das bestehende Foto ohne Sonnenbrille, auf dem Sarah besser erkennbar ist.
+
+Alle übrigen Inhalte, Preise, Kurse und Seiten basieren unverändert auf V4.4.
